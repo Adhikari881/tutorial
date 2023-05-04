@@ -4,5 +4,3 @@ if hungry == "yes":
     print("pizza")
 else:
     print("sleep")
-
-print('hello')
