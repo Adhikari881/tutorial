@@ -4,5 +4,5 @@ if hungry == "yes":
     print("pizza")
 else:
     print("sleep")
-
-print('hello gy')
+for i in range(10):
+    print(i)
